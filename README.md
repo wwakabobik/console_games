@@ -1,6 +1,6 @@
 # Console games
 
-All games were developed in period in 2001-2005.
+All games were developed in period in 2001-2005 using C++ (roginally for Windows)
 
 ## XIO
 'Howitzers' game prototype
