@@ -7,7 +7,7 @@ All games were developed in period in 2001-2005 using C++ (roginally for Windows
 
 It's console app to test early mobile game mechanics. Goal of game - is to place three howitzers under phone keys (0-9). At every turn every howitzer will fire at opponent once. To destroy howitzer you need to hit it three times. AI is included. Detailed decription in pdf.
 
-![Howtizers game](https://github.com/wwakabobik/XIO_game/blob/master/xio.PNG)
+![Howtizers game](https://github.com/wwakabobik/console_games/blob/master/xio/xio.PNG)
 
 ## Piranha-like game
 
